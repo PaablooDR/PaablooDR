@@ -8,9 +8,9 @@
 
 <!-- ABOUT ME -->
 ## About Me
-- 🌱 I’m currently learning ...
-  - Angular
-  - Spring Boot
+I am a creative and detail-oriented full stack developer with the ability to tackle challenges strategically and with critical thinking. My passion for learning and problem-solving drives me to deliver innovative solutions and make a positive impact on every project I undertake.
+- 🔭 I’m currently working in <a href="https://www.fiatc.es/" target="blank">FIATC Seguros</a>
+- 🌱 I’m currently learning Angular & Spring.
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">pab25702@gmail.com</a>
 
