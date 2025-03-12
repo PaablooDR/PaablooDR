@@ -4,14 +4,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Competitive+Programmer;Always+learning+new+things">   </a>
 </p>
 
-<br>
 
 <!-- ABOUT ME -->
 ## About Me
 I am a creative and detail-oriented full stack developer with the ability to tackle challenges strategically and with critical thinking. My passion for learning and problem-solving drives me to deliver innovative solutions and make a positive impact on every project I undertake.
+
 - 🔭 I’m currently working in <a href="https://www.fiatc.es/" target="blank">FIATC Seguros</a>
+
 - 🌱 I’m currently learning Angular & Spring.
+
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+
 - 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">pab25702@gmail.com</a>
 
 <br>
@@ -56,3 +59,13 @@ I am a creative and detail-oriented full stack developer with the ability to tac
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span>
+
+<br>
+
+
+<!-- GITHUB STATS -->
+## Github stats 
+
+[![](https://github-readme-stats.vercel.app/api?username=paabloodr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/paabloodr)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=paabloodr&theme=material-palenight)](https://github.com/paabloodr)
+</div>
