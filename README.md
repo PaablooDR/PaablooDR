@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi , I'm Pablo De Gregorio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Competitive+Programmer;Always+learning+new+things">   </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C5FF&center=true&width=600&height=100&lines=Web+Developer;Competitive+Programmer;Always+learning+things" alt="Typing SVG" /></a>
 </p>
 
 
@@ -60,12 +60,11 @@ I am a creative and detail-oriented full stack developer with the ability to tac
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </span>
 
-<br>
+<br><br>
 
 
 <!-- GITHUB STATS -->
 ## Github stats 
 
-[![](https://github-readme-stats.vercel.app/api?username=paabloodr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/paabloodr)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=paabloodr&theme=material-palenight)](https://github.com/paabloodr)
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=paabloodr&show_icons=true&theme=react&hide_border=true&locale=en)](https://github.com/paabloodr)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=paabloodr&theme=react)](https://github.com/paabloodr)
