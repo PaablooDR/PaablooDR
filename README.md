@@ -13,7 +13,7 @@ I am a creative and detail-oriented full stack developer with the ability to tac
 
 - 🌱 I’m currently learning Angular & Spring.
 
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and 🏋️‍♂️ doing sports.
 
 - 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">pab25702@gmail.com</a>
 
